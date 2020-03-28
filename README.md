@@ -20,3 +20,4 @@ cd Car_Analytic_Platform
 python dashboard.py
 ```
 
+Data scaped from 3 sites carshop,usedcardeals and driveit 
