@@ -1,6 +1,6 @@
 # Car Analytics app 
 
-![](car_analytics.png)
+![](car_analytics.jpg)
 ![](demo.gif)
 
 
