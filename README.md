@@ -1,6 +1,6 @@
 # Car Analytics app 
 
-![](demo.gif)
+![](demo.gif =200x200)
 
 
 ### simple dashboard app created with data scraped using scrapy
